@@ -3,6 +3,9 @@ This repository includes the needed resources for the "BIG DATA AND INFORMATION 
 
 In this session, we will practice the combination of Decision Tree Classifier and k-Nearest Neural Network (kNN) for finding the correlation between dataset attributes based on given dataset obtained from Kaggle.
 
+# Dataset used: https://drive.google.com/drive/folders/1c-2hAeONpRsp85OPPMaymYP873YrazeZ?usp=sharing
+Note: Github doesn't allow user to upload a file more than 25 MB.
+
 # YouTube Link: https://youtu.be/x3zP01N-17I
 
 # Summary:
